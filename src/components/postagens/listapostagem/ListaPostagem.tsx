@@ -88,6 +88,7 @@ function ListaPostagem() {
           </CardActions>
         </Card>
       </Box>
+
       ))
   }
     </>
