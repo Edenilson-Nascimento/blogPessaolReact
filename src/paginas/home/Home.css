@@ -1,0 +1,21 @@
+.titulo{
+    color: white !important;
+    font-Weight: "bold";
+    
+}
+.imagem-home{
+   width: 49vw;
+   min-height: calc(100vh - 68px - 180px);
+}
+.fundo-home{
+    background: linear-gradient(30deg,rgba(243, 148, 178, 0.765)  12%,#3c47e284 70%)
+}
+.botao{
+    border-color: white !important;
+    background:rgb(63, 81, 181) !important;
+    color:white !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}

@@ -1,0 +1,11 @@
+.titulo{
+    font-weight: bold;
+ }
+
+ .barra-posts{
+    background: linear-gradient(36deg, #fab1c8c6 9%,#608de8c4 80%);
+    
+ }
+ .MuiAppBar-colorPrimary{
+     color: black !important;
+ }

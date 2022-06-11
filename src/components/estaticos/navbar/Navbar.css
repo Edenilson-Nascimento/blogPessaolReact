@@ -1,0 +1,29 @@
+.fundo-navbar{
+    background: linear-gradient(36deg, rgba(60, 115, 226, 0.983) 9%, #f394b2 80%)
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+
+
+ /* .MuiAppBar-colorPrimary{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.MuiAppBar-colorPrimary h5, h6{
+ margin-right:50px;
+}  */
+.alinhar-navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.alinhar-navbar h6{
+    margin-left: 50px;
+}
+.cursor{
+    cursor:pointer;
+    color: white;
+}

@@ -1,0 +1,19 @@
+.imagem-cadastrar{
+    background-image:url(https://www.bcb.gov.br/conteudo/home-ptbr/PublishingImages/Jornalismo%20Interno/Denor/04%20-%20Cadastro%20Positivo/post_cadastro_positivo_2019-03.png);background-Repeat: no-repeat;
+    width: 100vh;
+    min-Height: 100vh;
+    background-Size: cover;
+    background-Position: center;
+}
+
+.fundo-cadastro{
+  background: linear-gradient(30deg, #1ce70e 6%,#3c47e284 70%, #f394b2c3  100%);
+}
+
+.texto1{
+ font-Weight: bold !important;
+}
+
+.btnCancelar{
+    margin-right: 20px!important;
+}
