@@ -39,6 +39,7 @@ function ListaPostagem() {
       headers: {
         'Authorization': token
       }
+
     })
   }
 
