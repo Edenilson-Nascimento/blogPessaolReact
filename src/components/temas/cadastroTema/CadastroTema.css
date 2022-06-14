@@ -1,3 +1,7 @@
 .topo{
     margin-top: 20px;
 }
+
+body{
+    background: linear-gradient(30deg,rgba(243, 148, 178, 0.765)  12%,#3c47e284 70%) !important;
+}

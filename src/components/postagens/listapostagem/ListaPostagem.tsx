@@ -52,8 +52,8 @@ function ListaPostagem() {
       <>
   {
     posts.map(post =>(
-      <Box m={2} >
-        <Card variant="outlined">
+      <Box m={2}>
+        <Card variant="outlined" className="fundo-li">
           <CardContent>
             <Typography color="textSecondary" gutterBottom>
               Postagens
@@ -69,10 +69,10 @@ function ListaPostagem() {
             </Typography>
           </CardContent>
           <CardActions>
-            <Box display="flex" justifyContent="center" mb={1.5}>
+            <Box display="flex" justifyContent="center" mb={1.5} >
 
-              <Link to={`/formularioPostagem/${post.id}`} className="text-decorator-none" >
-                <Box mx={1}>
+              <Link to={`/formularioPostagem/${post.id}`} className="text-decorator-none">
+                <Box mx={1} >
                   <Button variant="contained" className="marginLeft" size='small' color="primary" >
                     atualizar
                   </Button>
