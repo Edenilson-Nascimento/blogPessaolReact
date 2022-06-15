@@ -1,4 +1,4 @@
-# Blog-pessoal criado através dos conhecimentos adiquiridos durante a formação de pesssoa desenvovedora da Generation Brasil, acesse o site através do Link:
+# Blog-pessoal criado através dos conhecimentos adquiridos durante a formação de pesssoa desenvolvedora web fullStack java jr da Generation Brasil, acesse o site através do Link:
 
 https://blog-nascimento-dy.netlify.app/
 
