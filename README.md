@@ -1,3 +1,7 @@
+# Blog-pessoal criado através dos conhecimentos adiquiridos durante a formação de pesssoa desenvovedora da Generation Brasil, acesse o site através do Link:
+
+https://blog-nascimento-dy.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
