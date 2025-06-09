@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export const api = axios.create({
-    baseURL: 'https://meublogdy.herokuapp.com/'
+    baseURL: 'blog_pessoal.railway.internal/'
 })
 
     export const cadastroUsuario = async(url: any,dados: any,setDado: any) => { 
